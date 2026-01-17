@@ -1,0 +1,7 @@
+{
+  "name": "Kaleem- Tailor Management App",
+  "description": "A comprehensive tool for tailors to manage customers, measurements, orders, and payments, while providing customers with a dedicated dashboard to track their orders and view measurements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
